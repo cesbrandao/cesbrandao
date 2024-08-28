@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Me chamo Carlos Eduardo, mas pode me chamar de Cadu! Sou um QA se aventurando no desenvolvimento FullStack.
+Me chamo Carlos Eduardo, mas pode me chamar de Cadu! Sou um Analista de Qualidade de Software se aventurando no desenvolvimento FullStack.
 
 <div align="center">
   <img src="https://i.makeagif.com/media/1-25-2020/5hflai.gif" alt="Cadu Maverick gif"  />
