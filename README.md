@@ -18,16 +18,13 @@ Here are some ideas to get you started:
 Me chamo Carlos Eduardo, mas pode me chamar de Cadu! Sou um QA se aventurando no desenvolvimento FullStack.
 
 <div align="center">
-  <img src="https://i.makeagif.com/media/1-25-2020/5hflai.gif" alt="cadu maverick gif"  />
+  <img src="https://i.makeagif.com/media/1-25-2020/5hflai.gif" alt="Cadu Maverick gif"  />
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/cesbrandao/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <a href="cadupiry#2800" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
-  </a>
-  <a href="ceduardosbrandao@gmail.com" target="_blank">
+  <a href="mailto:ceduardosbrandao@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   </a>
 </div>
